@@ -1,6 +1,6 @@
 # 2019_RemoteNerf
 
-## Overviev 
+## Overview 
 RemoteNerf is a device that allows to control a Nefr Gun attached to a frame. 
 
 ## Description
