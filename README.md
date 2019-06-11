@@ -23,8 +23,30 @@ Software:
 * STMStudio
 * C language and HAL Libraries 
 
-## How to run 
-TO_DO
+## How to run
+Pinout for STM32L100C-DISCO:
+| PIN  | TOOL |
+| ------------- | ------------- |
+| PA1 | RELAY IN1 |
+| PA2 | RELAY IN2 |
+| PA3 | BUTTON |
+| PA4 | BUTTON |
+| VCC 5V | RELAY VCC |
+| GND | RELAY GND |
+
+
+Pinout for STM32F407G-DISC1:
+| PIN  | TOOL |
+| ------------- | ------------- |
+| PA1 | ADC1 |
+| PA2 | ADC2 |
+| PB6 | AR-3606HB SIGNAL |
+| PB7 | SG-5010 SIGNAL |
+| VCC 3V | LM386M VCC |
+| GND | LM386M GND |
+| GND | COMMON SERVO GND |
+
+Servos are connected to external 5V energy source.  
 
 ## How to compile 
 Ordinary project build and compilation in System Workbench for STM32. 
