@@ -11,11 +11,11 @@ Hardware
 * STM32F407G-DISC1 board
 * STM32L100C-DISCO board
 * TowerPro SG-5010 servomechanism
-* PowerHD AR-3606HB servomechanism 
+* PowerHD AR-3606HB servomechanism
 * Nerf Elite HyperFire
 * 2 relay module
-* Potentiometer 
-* Wodden frame 
+* WaveShare LM386M amplifier module
+* Wodden frame
 
 Software: 
 * STM32CubeMX
