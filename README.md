@@ -25,6 +25,7 @@ Software:
 
 ## How to run
 Pinout for STM32L100C-DISCO:
+
 | PIN  | TOOL |
 | ------------- | ------------- |
 | PA1 | RELAY IN1 |
@@ -34,8 +35,8 @@ Pinout for STM32L100C-DISCO:
 | VCC 5V | RELAY VCC |
 | GND | RELAY GND |
 
-
 Pinout for STM32F407G-DISC1:
+
 | PIN  | TOOL |
 | ------------- | ------------- |
 | PA1 | ADC1 |
